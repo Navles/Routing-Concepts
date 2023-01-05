@@ -1,0 +1,43 @@
+.navbar{
+    height: 70px;
+    background-color: black;
+    text-align: center;
+}
+.navbar ul{
+    margin: auto;
+}
+.nav{
+    color: white;
+    font-size: 20px;
+    margin-top: 8px;
+    margin: 0 50px;
+}
+li{
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+.Option{
+    /* width: 30% !important; */
+    /* height: 70px; */
+    /* background-color: cornflowerblue; */
+    /* border-radius: 20px; */
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    /* color: black; */ 
+}
+.option1{
+    margin: 0 25px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    padding: 20px 25px;
+    border-radius: 25px;
+}
+.yennatha{
+    text-align: center;
+    margin-top: 80px;
+    font-style: oblique;
+}
